@@ -1,0 +1,5 @@
+Downloading/unpacking pytest
+Downloading/unpacking py>=1.4.29 (from pytest)
+Installing collected packages: pytest, py
+Successfully installed pytest py
+Cleaning up...
