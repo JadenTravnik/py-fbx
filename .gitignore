@@ -3,3 +3,8 @@
 .cache
 *.pyc
 venv
+lib/
+geo.py
+main.py
+*.fbx
+
